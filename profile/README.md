@@ -51,9 +51,8 @@ Some repositories may represent early-stage concepts, prototypes, or long-term r
 <p align="center">
   Exploring ideas. Building systems. Solving problems.
 </p>
-* AI Agents
-* Autonomous Systems
-* Human–AI Collaboration
+* Live Computer Agents
+* Manmade Systems
 * Developer Infrastructure
 * Open Research
 
