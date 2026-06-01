@@ -1,7 +1,7 @@
 # Anthro Labs
 
 <p align="center">
-  <img src="https://github.com/Anthro-Labs.png" width="140" alt="ClawFish Labs" />
+  <img src="https://github.com/Anthro-Labs.png" width="140" alt="Anthro Labs" />
 </p>
 
 <p align="center">
@@ -10,11 +10,11 @@
 
 ---
 
-ClawFish Labs is an independent research program dedicated to exploring new ideas, building experimental technologies, and developing systems that push human progress forward.
+Anthro Labs is an independent research program dedicated to exploring new ideas, building experimental technologies, and developing systems that push human progress forward.
 
 We work across software, intelligent systems, infrastructure, tools, and emerging technologies — approaching problems with curiosity, creativity, and long-term thinking.
 
-Rather than focusing on a single field, ClawFish Labs exists to research, prototype, and create solutions that can evolve into impactful real-world projects.
+Rather than focusing on a single field, Anthro Labs exists to research, prototype, and create solutions that can evolve into impactful real-world projects.
 
 Inspired by the belief that technology should expand human potential.
 
@@ -24,11 +24,7 @@ Inspired by the belief that technology should expand human potential.
 
 - Intelligent Systems  
 - Experimental Technologies  
-- Human-Centered Computing  
-- AI & Automation  
-- Developer Infrastructure  
-- Research Projects  
-- Future-Oriented Tools  
+- Human-Centered Computing 
 
 ---
 
@@ -40,13 +36,13 @@ Some ideas begin as experiments.
 Some become tools.  
 Some evolve into entirely new systems.
 
-ClawFish Labs exists to discover, build, and refine technologies that have the potential to shape the future.
+Anthto Labs exists to discover, build, and refine technologies that have the potential to shape the future.
 
 ---
 
 ## Projects
 
-This organization serves as a home for research initiatives, experimental systems, infrastructure projects, and open-source technologies developed under ClawFish Labs.
+This organization serves as a home for research initiatives, experimental systems, infrastructure projects, and open-source technologies developed under Anthro Labs.
 
 Some repositories may represent early-stage concepts, prototypes, or long-term research efforts.
 
@@ -63,4 +59,4 @@ Some repositories may represent early-stage concepts, prototypes, or long-term r
 
 ---
 
-GitHub → [https://github.com/ClawFish-Labs](https://github.com/ClawFish-Labs)
+GitHub → [https://github.com/Anthro-Labs](https://github.com/Anthro-Labs)
